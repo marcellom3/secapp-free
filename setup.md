@@ -95,10 +95,10 @@ Se ainda não tem uma instância:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/SEU_USUARIO/secapp.git
+git clone https://github.com/marcellom3/secapp-free.git
 
 # Acesse a pasta
-cd secapp
+cd secapp-free
 ```
 
 ### 3.2 Instalar Dependências
@@ -156,7 +156,7 @@ git config --global user.email "seu-email@email.com"
 2. Faça login
 3. Clique no **"+"** → **"New repository"**
 4. Preencha:
-   - **Repository name:** `secapp`
+   - **Repository name:** `secapp-free`
    - **Description:** `Web app para medições corporais com notificação WhatsApp`
    - **Public** ou **Private** (recomendo Private)
    - **NÃO** marque "Initialize with README"
@@ -169,7 +169,7 @@ git init
 git add .
 git commit -m "Initial commit - SecApp"
 git branch -M main
-git remote add origin https://github.com/SEU_USUARIO/secapp.git
+git remote add origin https://github.com/marcellom3/secapp-free.git
 git push -u origin main
 ```
 
@@ -184,7 +184,7 @@ git push -u origin main
 1. Vá para https://vercel.com
 2. Faça login (pode usar conta do GitHub)
 3. Clique em **"Add New..."** → **"Project"**
-4. Em **"Import Git Repository"**, selecione o repositório `secapp`
+4. Em **"Import Git Repository"**, selecione o repositório `secapp-free`
 5. Clique em **"Import"**
 
 ### 5.2 Configurar Variáveis de Ambiente

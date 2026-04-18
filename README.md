@@ -41,8 +41,8 @@ Antes de começar, você precisa ter:
 ### 1. Clone o Repositório
 
 ```bash
-git clone https://github.com/SEU_USUARIO/secapp.git
-cd secapp
+git clone https://github.com/marcellom3/secapp-free.git
+cd secapp-free
 ```
 
 ### 2. Instale as Dependências
@@ -99,7 +99,7 @@ Acesse `http://localhost:3000`
 ## 📁 Estrutura do Projeto
 
 ```
-secapp/
+secapp-free/
 ├── src/
 │   ├── app/
 │   │   ├── api/
