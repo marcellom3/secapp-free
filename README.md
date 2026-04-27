@@ -5,13 +5,8 @@ Aplicação web para registro e acompanhamento de medidas corporais com notifica
 ![Status](https://img.shields.io/badge/status-stable-success)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-<p align="center">
-  <a href="https://youtube.com/shorts/uA79ahqZ7MM">
-    <img src="https://img.youtube.com/vi/uA79ahqZ7MM/0.jpg" width="400" style="border-radius:10px;" />
-    <br>
-    <img src="https://img.icons8.com/ios-filled/50/fa314a/play-button-circled.png" width="60" style="margin-top:-120px;" />
-  </a>
-</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uA79ahqZ7MM" title="Demo SecApp" frameborder="0" allow="accelerometer; autoplay;
+  clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 🚀 Funcionalidades
 
